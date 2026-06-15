@@ -25,7 +25,7 @@ class AddContact extends React.Component {
             return;
         }
         this.props.addContactHandler(this.state)
-        this.setState({ name: "", email: "" }) // form clear kar do submit ke baad
+        this.setState({ name: "", email: "" }) 
     }
 
     // we fill the contact w any random contact
