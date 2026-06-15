@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contact-Manager-App-React/static/css/main.e3e34040.css",
+    "main.js": "/Contact-Manager-App-React/static/js/main.26756488.js",
+    "static/js/453.93024ed6.chunk.js": "/Contact-Manager-App-React/static/js/453.93024ed6.chunk.js",
+    "static/media/user.png": "/Contact-Manager-App-React/static/media/user.7dae686c2f581b63e106.png",
+    "index.html": "/Contact-Manager-App-React/index.html",
+    "main.e3e34040.css.map": "/Contact-Manager-App-React/static/css/main.e3e34040.css.map",
+    "main.26756488.js.map": "/Contact-Manager-App-React/static/js/main.26756488.js.map",
+    "453.93024ed6.chunk.js.map": "/Contact-Manager-App-React/static/js/453.93024ed6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3e34040.css",
+    "static/js/main.26756488.js"
+  ]
+}
